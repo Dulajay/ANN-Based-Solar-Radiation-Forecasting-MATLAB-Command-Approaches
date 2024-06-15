@@ -2,6 +2,10 @@
 
 This repository contains the data, source code, and report for the study on the performance of artificial neural network (ANN) models for weather data analysis using datasets collected from multiple weather stations in Sydney, Australia.
 
+<div align="center">
+  <img src="https://github.com/Dulajay/ANN-Based-Solar-Radiation-Forecasting-MATLAB-Command-Approaches/assets/151004273/1bf74085-3c84-4dbb-a115-58647f24e3e5" alt="Weather Station Image" width="300" height="300">
+</div>
+
 ## Overview
 
 The research compares ANN models constructed using a GUI-based tool (`nnstart`) and MATLAB commands (`newff`, `traingd`, `newrb`) to model solar exposure patterns over a year. The study focuses on the accuracy and generalization of the models across different seasons.
