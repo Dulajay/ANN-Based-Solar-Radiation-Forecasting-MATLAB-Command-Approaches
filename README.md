@@ -12,8 +12,8 @@ The research compares ANN models constructed using a GUI-based tool (`nnstart`) 
   - `sydney_weather_data.csv`: Raw weather data collected from various Sydney stations.
   - `processed_data.csv`: Processed data used for training the ANN models.
 - **src/**: Contains the source code for both GUI-based and MATLAB command approaches.
-  - `gui_based_approach/`: Scripts and results for the GUI-based approach.
-  - `matlab_based_approach/`: Scripts and results for the MATLAB command approach.
+  - Scripts and results for the GUI-based approach.
+  - Scripts and results for the MATLAB command approach.
     - `feed_forward.m`: Script for feedforward gradient descent backpropagation.
     - `radial_basis.m`: Script for radial basis function analysis.
 - **report/**: Contains the final report in PDF format.
